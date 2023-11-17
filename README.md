@@ -137,12 +137,14 @@ Create a .prettierrc file for Prettier configuration:
 // .prettierrc
 {
   "semi": false,
-  "singleQuote": true,
-  "jsxSingleQuote": true,
+  "singleQuote": false,
+  "jsxSingleQuote": false,
+  "tsxSingleQuote": false,
   "trailingComma": "all",
   "printWidth": 80,
   "tabWidth": 2
 }
+
 
 ```
 
