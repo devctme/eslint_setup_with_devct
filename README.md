@@ -55,7 +55,9 @@ Follow the below settings for VS Code -
  // .vscode/settings.json
 {
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
+    "source.fixAll.eslint": true,
+    "source.fixAll.tslint": true,
+    "source.organizeImports": true
   },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
@@ -72,13 +74,14 @@ Follow the below settings for VS Code -
     "typescriptreact"
   ],
   // emmet
-    "emmet.triggerExpansionOnTab": true,
-    "emmet.includeLanguages": {
-      "javascript": "javascriptreact",
-      "typescript": "typescriptreact"
-    },
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
   "typescript.tsdk": "node_modules/typescript/lib"
 }
+
 
 
 ```
