@@ -139,13 +139,14 @@ Create a .prettierrc file for Prettier configuration:
 
 // .prettierrc
 {
-  "semi": false,
+  "semi": true,
   "singleQuote": false,
   "jsxSingleQuote": false,
   "tsxSingleQuote": false,
   "trailingComma": "all",
   "printWidth": 80,
-  "tabWidth": 2
+  "tabWidth": 2,
+  "endOfLine": "auto"
 }
 
 
