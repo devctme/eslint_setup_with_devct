@@ -158,7 +158,7 @@ Create a .prettierrc file for Prettier configuration:
 
 Md Minarul islam - [devctme@gmail.com](mailto:devctme@gmail.com)
 
-Youtube Setup Video Link: [Eslint setup](https://youtu.be/Krg3lCbBuds)
+Youtube Setup Video Link: [Eslint setup](https://youtu.be/Krg3lCbBuds](https://youtu.be/P9ti7ma5e_s)
 
 Youtube Channel: [DevCT]( https://www.youtube.com/channel/UC0B-8Ks4pmRigOs-UsORkbQ)
 
